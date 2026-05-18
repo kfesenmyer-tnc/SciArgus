@@ -7,8 +7,8 @@ Impact evaluations of conservation interventions and their resulting outcomes. S
 #Remote Sensing of Forests
 Research into the application of remote sensing for the characterization and quantification of forests at both local and global scales. This encompasses all sensor technologies—including drones, airborne and satellite LiDAR, radar, and optical sensors (particularly hyperspectral). Topics should cover the development of new sensor technologies, the creation of novel algorithms for ecosystem monitoring, and advancements in leveraging existing sensors to derive critical forest information.
 
-#Biodiversity Markets
-Research discussing the development and application of biodiversity markets, including offsets, biodiversity credits, voluntary markets, and compliance markets. We seek critiques of how these markets are evolving, perspectives on the prerequisites for well-functioning markets, and reviews of both existing markets and the structural conditions required for their success.
+#Biomass mapping
+Research discussing the development and evaluation of forest structure maps, including biomass, biomass change, aboveground carbon, carbon stock, carbon denisty, and canopy height maps.
 
 #Carbon Markets
 Research discussing the development and application of carbon markets, including offsets, carbon credits, voluntary markets, and compliance markets. We seek critiques of how these markets are evolving, perspectives on the prerequisites for well-functioning markets, and reviews of both existing markets and the structural conditions required for their success.
